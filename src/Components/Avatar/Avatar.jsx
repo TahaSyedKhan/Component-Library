@@ -1,4 +1,5 @@
 import { IoPersonSharp } from "react-icons/io5"
+import "./style.css"
 
 const colorClasses = ['navy', 'pink', 'red', 'blue', 'green']
 const randomColor = Math.floor(Math.random() * colorClasses.length)

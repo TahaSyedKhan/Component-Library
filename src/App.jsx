@@ -1,5 +1,5 @@
-import Avatar from "./Components/Avatar";
-import Button from "./Components/Button";
+import Avatar from "./Components/Avatar/Avatar";
+import Button from "./Components/Button/Button";
 
 export default function App() {
   return (
